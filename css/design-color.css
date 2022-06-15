@@ -46,5 +46,5 @@ section.design-color > .right > .bottom > .black > .black-wrap {
     display: flex; flex-direction: column; justify-content: space-between; position: absolute; top: 30px; left: 60px; bottom: 30px;
 }
 section.design-color > .right > .bottom > .yellow span {margin-right: 30px;}
-/* section.design-color > .right > .bottom > .yellow sub {position: absolute; top:} */
+
 section.design-color > .right > .bottom > .black {color: white; position: relative;}

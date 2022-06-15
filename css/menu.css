@@ -34,7 +34,7 @@ div.menu > .design {
 
 div.menu > .service {
     top: 0; left: 75%;
-    background-image: url(../images/menu-service.jpg);
+    background-image: url(../images/menu-service.png);
 }
 div.menu > div > p {
     z-index: 999;

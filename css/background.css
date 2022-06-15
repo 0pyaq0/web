@@ -2,25 +2,20 @@ section#background {
     width: 100vw;
     height: 100vh;
     position: absolute;
-    /* display: flex;  */
     left: 0;
     top: 0;
     z-index: -999;
     overflow: hidden;
-    /* transform:translate(50%, 50%); */
 }
 section#background > div#main-back {
-    /* margin-left: 50vw; */
     position: absolute;
     width: 50%;
     height: 300%;
     left: 50%;
     top: 0%;
-    /* background-color: #fff; */
     /* 메인컬러 */
     background-color: #6667AB;
     transition: all 1.5s ease-in-out;
-    /* transform: rotateZ(90deg); */
 }
 section#background > div#yellowBG {  
     background-color: #A9E0FF; 
